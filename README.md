@@ -4,9 +4,7 @@ automação mobile SmartPos
 > Este projeto tem o intuito de implementar testes regressivos automatizados para o app SmartPos na plataforma Android.
 
 ## Construído com:
-Ruby, Appium, Cucumber
-
-Android Studio, Java JDK, Visual Studio Code, Cmder, Git
+Ruby, Appium, Cucumber, Android Studio, Java JDK, Visual Studio Code, Cmder, Git
 
 ## Configuração do Ambiente:
 
