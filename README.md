@@ -48,15 +48,18 @@ Na seção variáveis do sistema localize a variável de ambiente `PATH` e selec
 Clique em OK. Feche todas as janelas restantes clicando em OK.
 
 ## Clonar o Projeto
+
 Abra a pasta em que deseja clonar o projeto execute o comando com git bash ou algum outro terminal que possua git integrado:
 ```
 git clone <url do projeto no git>
 ```
+
 ## Configuração para Desenvolvimento
 Para gerenciar nossas gems (dependências) do ruby nós precisamos instalar o Bundler, na pasta do projeto execute o comando abaixo no terminal:
 ```sh
 gem install bundler
 ```
+
 em seguida para instalar as gems(configuradas no arquivo gemfile.rb) execute o comando
 ```sh
 bundle install
