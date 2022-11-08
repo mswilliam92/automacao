@@ -69,7 +69,7 @@ bundle install
 na pasta do projeto execute o comando baixo para executar como um todo
 
 ```sh
-cucumber -t @tag do teste definido no .feature 
+cucumber -t @tag definido no .feature 
 ```
 a execução do teste deverá ser iniciada
 
