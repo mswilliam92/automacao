@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=wnkynX7Yreo
 #### Path do Sistema
 
 Editar variaveis de ambiente do sistema!
-Na seção variáveis do sistema localize a variável de ambiente PATH e selecione-a. Clique em Editar e insira:
+Na seção variáveis do sistema localize a variável de ambiente `PATH` e selecione-a. Clique em Editar e insira:
 
 %JAVA_HOME%\bin
 
@@ -54,17 +54,18 @@ git clone <url do projeto no git>
 
 ## Configuração para Desenvolvimento
 Para gerenciar nossas gems (dependências) do ruby nós precisamos instalar o Bundler, na pasta do projeto execute o comando abaixo no terminal:
-
-gem install Bundler
-  
+```sh
+gem install bundler
+```  
 em seguida para instalar as gems (configuradas no arquivo gemfile.rb) execute o comando
-
+```sh
 bundle install
-
+```sh
 ## Executando o projeto
 na pasta do projeto execute o comando baixo para executar como um todo
-
+```sh
 cucumber -t @<tag do teste definido no "feature">
+```
 
 A execução do teste deverá ser iniciada
 
