@@ -50,8 +50,9 @@ Clique em OK. Feche todas as janelas restantes clicando em OK.
 ## Clonar o Projeto
 Abra a pasta em que deseja clonar o projeto execute o comando com git bash ou algum outro terminal que possua git integrado:
 
+```
 git clone <url do projeto no git>
-
+```
 ## Configuração para Desenvolvimento
 Para gerenciar nossas gems (dependências) do ruby nós precisamos instalar o Bundler, na pasta do projeto execute o comando abaixo no terminal:
 
