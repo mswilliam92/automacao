@@ -49,7 +49,6 @@ Clique em OK. Feche todas as janelas restantes clicando em OK.
 
 ## Clonar o Projeto
 Abra a pasta em que deseja clonar o projeto execute o comando com git bash ou algum outro terminal que possua git integrado:
-
 ```
 git clone <url do projeto no git>
 ```
