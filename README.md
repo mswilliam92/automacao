@@ -55,7 +55,6 @@ git clone <url do projeto no git>
 ```
 ## Configuração para Desenvolvimento
 Para gerenciar nossas gems (dependências) do ruby nós precisamos instalar o Bundler, na pasta do projeto execute o comando abaixo no terminal:
-
 ```sh
 gem install bundler
 ```
