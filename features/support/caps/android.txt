@@ -1,0 +1,9 @@
+
+[caps]
+  app = "app/smartpos.apk"
+  deviceName = "dispositivo"
+  platformName = "Android"
+  automationName = "UIAutomator2"
+  udid = "0075460789"
+  appWaitActivity = "br.com.netpos.smartpos.view.NewIntroActivity"
+
